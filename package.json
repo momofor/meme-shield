@@ -1,0 +1,26 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "description": "a discord bot for chill park server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://momofor/meme-shield"
+  },
+  "keywords": [
+    "meme-shield",
+    "bot",
+    "discord",
+    "discord-bot",
+    "meme",
+    "shield"
+  ],
+  "author": "momofor",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.14.0"
+  }
+}
